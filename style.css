@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+  background: #f0f8ff;
+}
+
+h1 {
+  color: #333;
+}
+
+#weather {
+  margin-top: 20px;
+  font-size: 18px;
+}
