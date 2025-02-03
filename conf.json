@@ -1,4 +1,5 @@
 {
   "city": "Paris",
-  "unit": "Celsius"
+  "unit": "Celsius",
+  "apiKey": "333ab70688174bc7b62213951251101"
 }
